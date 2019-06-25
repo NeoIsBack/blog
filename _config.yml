@@ -5,8 +5,8 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               MacPukPro
+tagline:             'A place to mark down all my thoughts, ideas and memories'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 "http://macpuk.pro"
 baseurl:             '/blog'
@@ -14,7 +14,7 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Patrick Puk
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
